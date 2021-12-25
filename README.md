@@ -6,5 +6,9 @@ This is a Django project that will serve as a news aggregator. We will pull in n
 I wish to make this project as production ready as possible. As in, when the project launces to production, anyone can easily submit pull requests for bugs. 
 ### Goal 2: 
 I wish to have a strong testing suite for the application. 
+### Goal 3: 
+A really nice and beautiful front-end.
+### Goal 4:
+I wish for the project to go to production and be a live website with a domain name. 
 
 ### All changes will be made on the development branch. The main branch shall not be updated until an Alpha version is released. There is limited thing that y ou can do at thi very moment to contribute to the project. Pleae stayed tuned!
